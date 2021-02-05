@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ViewPagerWithEventBus</string>
+    <string name="search">Search…</string>
+    <string name="premier_league">Premier League</string>
+    <string name="champions_league">Champions League</string>
+    <string name="europa_league">Europa League</string>
+    <string name="no_data">No data</string>
+</resources>
